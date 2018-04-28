@@ -1,0 +1,3 @@
+ErrorDocument 404 /404.html
+RewriteRule /?\.htaccess$ - [F,L]
+RewriteRule ^/?inscription/database\.txt$ - [F,L]
